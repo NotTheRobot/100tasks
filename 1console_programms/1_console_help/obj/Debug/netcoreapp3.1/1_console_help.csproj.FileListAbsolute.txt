@@ -1,0 +1,13 @@
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.exe
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.deps.json
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.runtimeconfig.json
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.runtimeconfig.dev.json
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.dll
+C:\100 заданий\100tasks\1console_programms\1_console_help\bin\Debug\netcoreapp3.1\1_console_help.pdb
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.csprojAssemblyReference.cache
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.AssemblyInfoInputs.cache
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.AssemblyInfo.cs
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.csproj.CoreCompileInputs.cache
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.dll
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.pdb
+C:\100 заданий\100tasks\1console_programms\1_console_help\obj\Debug\netcoreapp3.1\1_console_help.genruntimeconfig.cache
