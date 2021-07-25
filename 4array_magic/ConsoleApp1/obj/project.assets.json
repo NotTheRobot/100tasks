@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\100 заданий\\100tasks\\3calculator\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\100 заданий\\100tasks\\3calculator\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\100 заданий\\100tasks\\4array_magic\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\100 заданий\\100tasks\\4array_magic\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\100 заданий\\100tasks\\3calculator\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\100 заданий\\100tasks\\4array_magic\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
